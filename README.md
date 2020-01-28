@@ -21,7 +21,7 @@ Exploration of two different high-dimensional data sets - the MNIST-Fashion data
 * Evaluation and Comparison
 
 ### 3. Poster
-A poster visualising and explaining results.
+* A poster visualising and explaining results.
 
 ### 4. Dimensionality Reduction
 * Principal Component Analysis
