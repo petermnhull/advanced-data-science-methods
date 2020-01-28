@@ -1,6 +1,6 @@
 # Overview of Data Science Methods
 
-Exploration of two different high-dimensional data sets - a dataset of text documents, and a collection of images.
+Exploration of two different high-dimensional data sets - the MNIST-Fashion dataset, and a dataset of text documents with citations.
 
 * Supervised classification (Multi Layer Perceptron, Convolutional Neural Networks)
 * Graph analytics (Community Detection)
