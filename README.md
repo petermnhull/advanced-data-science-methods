@@ -1,4 +1,4 @@
-# DataScienceMethodsOverview3
+# Overview of Data Science Methods
 
 Exploration of two different high-dimensional data sets - a dataset of text documents, and a collection of images.
 
