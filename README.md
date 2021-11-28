@@ -1,5 +1,7 @@
 # Advanced Methods for Data Science
 
+Coursework completed as part of the Methods for Data Science course at Imperial College London.
+
 Exploration of two different high-dimensional data sets - the MNIST-Fashion dataset, and a dataset of text documents with citations. The approaches considered are:
 
 * Supervised classification (Multi-Layer Perceptron, Convolutional Neural Networks, K-Nearest Neighbours)
